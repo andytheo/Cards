@@ -1,0 +1,71 @@
+.card {
+  margin: 70px;
+}
+
+.top {
+  background-color: #0A1931;
+  height: 400px;
+}
+.top-intro {
+  color: white;
+  padding: 8%;
+  font-size: 400%;
+}
+.top-right {
+  /* padding: 30px; */
+}
+
+.intro-image {
+  margin-top: 80px;
+  /* position: relative;
+  left: 0; */
+  width: 400px;
+  height: 200px;
+
+  transform: rotate(35deg);
+}
+
+.intro-image-b {
+  width: 400px;
+  height: 200px;
+  margin-top: -30px;
+  transform: rotate(35deg);
+}
+
+.middle-button {
+  text-align: center;
+}
+
+.foot {
+  position: relative;
+  bottom: 0;
+  background-color: #DDDDDD;
+  height: 130px;
+  padding: 30px;
+  width: 100%;
+}
+
+.foot p {
+  text-align: center;
+}
+
+.footer {
+  background-color: #DDDDDD;
+  height: 130px;
+  padding: 30px;
+  width: 100%;
+}
+.footer p {
+  text-align: center;
+}
+
+.data {
+  text-align: center;
+  margin: 100px;
+}
+
+.data input {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+}
